@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainimg {
+    flex-basis: 20%;
+    min-width: 20px;
+    margin-bottom: 20px;
+}
+
+.mainimg img {
+    width: 20%;
+}
